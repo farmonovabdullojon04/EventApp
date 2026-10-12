@@ -20,7 +20,7 @@
 
 Loyiha zamonaviy Android texnologiyalari — **Jetpack Compose**, **Hilt**, **Room**, **Kotlin Flow** va **Clean Architecture** asosida yozilgan.
 
-[Imkoniyatlar](#-imkoniyatlar) · [Qanday ishlaydi](#-qanday-ishlaydi) · [Arxitektura](#-arxitektura) · [Ishga tushirish](#-ishga-tushirish) · [Cheklovlar](#-ma-lum-cheklovlar)
+[Imkoniyatlar](#-imkoniyatlar) · [Skrinshotlar](#-skrinshotlar) · [Qanday ishlaydi](#-qanday-ishlaydi) · [Arxitektura](#-arxitektura) · [Ishga tushirish](#-ishga-tushirish)
 
 ---
 
@@ -35,6 +35,13 @@ Loyiha zamonaviy Android texnologiyalari — **Jetpack Compose**, **Hilt**, **Ro
 | 💾 **Doimiy xotira** | Holat Room bazasida saqlanadi, ilova qayta ochilsa ham yo'qolmaydi |
 | 🧩 **Fon rejimi** | Foreground Service tufayli ilova yopilganda ham ishlaydi |
 | 🎨 **Zamonaviy UI** | 100% Jetpack Compose + Material 3, edge-to-edge |
+
+## 📱 Skrinshotlar
+
+<p align="center">
+  <img width="360" height="780" alt="image" src="https://github.com/user-attachments/assets/02c84872-b538-43db-8de9-677eedec7af4" />
+  <img width="360" height="780" alt="image" src="https://github.com/user-attachments/assets/d96b74e4-4087-45cf-9af5-b0251c8d3d14" />
+</p>
 
 ## 🔍 Kuzatiladigan hodisalar
 
@@ -163,7 +170,8 @@ app/src/main/java/com/abdullojon/eventapp/
 - JDK 11+
 - Android SDK: `compileSdk 37` · `targetSdk 36` · `minSdk 24`
 - Android Gradle Plugin `9.2.1`
-```
+
+## 🚀 Ishga tushirish
 
 Yoki Android Studio'da: **Open** → Gradle sync → **Run ▶**
 
@@ -178,10 +186,6 @@ Yoki Android Studio'da: **Open** → Gradle sync → **Run ▶**
 
 > [!TIP]
 > Android 13+ da doimiy bildirishnoma ko'rinishi uchun `POST_NOTIFICATIONS` ruxsati kerak bo'lishi mumkin.
-
-##Skrinshotlar
-<img width="360" height="780" alt="image" src="https://github.com/user-attachments/assets/02c84872-b538-43db-8de9-677eedec7af4" />
-<img width="360" height="780" alt="image" src="https://github.com/user-attachments/assets/d96b74e4-4087-45cf-9af5-b0251c8d3d14" />
 
 ## 👤 Muallif
 
